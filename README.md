@@ -1,2 +1,2 @@
-# Java-Advanced-Programming-RMIT-
-Capstone Project 
+# Smart Home Automation system -
+ Project 
